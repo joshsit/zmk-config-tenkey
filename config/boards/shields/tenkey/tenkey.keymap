@@ -26,7 +26,17 @@
 #define LOT 9 // O-THUMB
 #define LIT 8 // I-THUMB
 
-
+// RIGHT SIDE
+#define TRI 37 // TOP
+#define TRM 38 // TOP
+#define TRR 39 // TOPesee
+#define TRP 10 // TOP
+#define BRI 19 // BOTTOM
+#define BRM 20 // BOTTOM
+#define BRR 21 // BOTTOM
+#define BRP 22 // BOTTOM
+#define ROT 40 // O-THUMB
+#define RIT 41 // I-THUMB
 
 
 &sk {
