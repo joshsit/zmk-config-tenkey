@@ -15,10 +15,10 @@
 #define STICKY_TIMEOUT 500
 
 // LEFT SIDE
-#define TLI 4 // TOP
-#define TLM 3 // TOP
-#define TLR 2 // TOP
-#define TLP 1 // TOP
+#define TLI 3 // TOP
+#define TLM 2 // TOP
+#define TLR 1 // TOP
+#define TLP 0 // TOP
 #define BLI 16 // BOTTOM
 #define BLM 15 // BOTTOM
 #define BLR 14 // BOTTOM
