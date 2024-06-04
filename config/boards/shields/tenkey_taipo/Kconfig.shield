@@ -1,0 +1,3 @@
+config SHIELD_TENKEY_TAIPO
+    def_bool $(shields_list_contains,tenkey_taipo)
+    

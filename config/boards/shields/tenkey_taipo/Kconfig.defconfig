@@ -1,0 +1,6 @@
+if SHIELD_TENKEY_TAIPO
+
+config ZMK_KEYBOARD_NAME    
+    default "Tenkey_Taipo"
+
+endif

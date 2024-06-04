@@ -1,2 +1,3 @@
 config SHIELD_TENKEY
     def_bool $(shields_list_contains,tenkey)
+    
